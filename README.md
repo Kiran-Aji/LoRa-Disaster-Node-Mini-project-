@@ -42,8 +42,8 @@ Because of the GPIO limitations on the ESP8266, the hardware is configured to by
 
 
 ### 🎥 Working Demonstration
-> [Drag and drop your working video or auto-playing GIF here to show the menus and texting in action!]
 
+https://github.com/user-attachments/assets/5f9a5df3-4543-4c03-bfe5-9013c67c2342
 ---
 
 ## 🔧 How to Configure and Test
