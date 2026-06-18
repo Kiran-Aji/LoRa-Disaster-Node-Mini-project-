@@ -37,7 +37,9 @@ Because of the GPIO limitations on the ESP8266, the hardware is configured to by
 ## 📸 System Showcase & Demo
 
 ### 🛠️ Hardware Setup
-> [Drag and drop your main hardware photo here!]
+<img width="720" height="1280" alt="WhatsApp Image 2026-04-08 at 10 25 29 AM" src="https://github.com/user-attachments/assets/737b6c2a-c56b-4c85-94dd-89baf3363819" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-04-08 at 10 25 30 AM" src="https://github.com/user-attachments/assets/b064fba9-2f97-42ec-b6de-95472a9b6059" />
+
 
 ### 🎥 Working Demonstration
 > [Drag and drop your working video or auto-playing GIF here to show the menus and texting in action!]
